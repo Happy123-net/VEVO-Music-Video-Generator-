@@ -1,0 +1,5 @@
+{
+  "name": "Audio to Music Video on Vevo",
+  "description": "The fastest VEVO music video generator. This Gemini AI app helps artists generate a music video from an audio file and a prompt, complete with a VEVO watermark. Export your video and publish it to platforms like YouTube and TikTok.",
+  "requestFramePermissions": []
+}
